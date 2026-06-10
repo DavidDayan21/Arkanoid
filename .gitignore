@@ -1,0 +1,12 @@
+bin/
+build/
+.gradle/
+*.class
+.idea/
+.vscode/
+*.iml
+.DS_Store
+highscore_*.txt
+highscore.txt
+settings.txt
+libs/
