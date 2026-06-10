@@ -58,8 +58,8 @@ java -jar Arkanoid.jar
 ### Option 2 — Build from source
 git clone https://github.com/DavidDayan21/Arkanoid.git
 cd Arkanoid
-./gradlew run
-On Windows: `gradlew.bat run`
+.\gradlew run
+On Windows: `.\gradlew run`
 
 The Gradle wrapper downloads Gradle automatically.
 Only requirement: **JDK 11+**
